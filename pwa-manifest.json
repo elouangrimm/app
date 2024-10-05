@@ -1,7 +1,7 @@
 {
-    "name": "RedCherry",
-    "short_name": "RedCherry",
-    "description": "RedCherry Simple PWA",
+    "name": "Elouan Grimm",
+    "short_name": "ElouanGrimm",
+    "description": "Elouan Grimm | PWA Test",
     "icons": [
         {
             "src": "img/fav-192.png",
@@ -27,8 +27,8 @@
             "type": "image/jpeg"
         }
     ],
-    "background_color": "#af0a1a",
-    "theme_color": "#af0a1a",
+    "background_color": "#121212",
+    "theme_color": "#121212",
     "display": "fullscreen",
     "orientation": "any",
     "start_url": ".",

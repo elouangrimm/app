@@ -13,7 +13,7 @@ if ('serviceWorker' in navigator) {
         // Check user internet status (online/offline)
         function updateOnlineStatus(event) {
             if (!navigator.onLine) {
-                alert('Internet access is not possible!')
+                alert('Internet access is not available!')
             }
         }
 
