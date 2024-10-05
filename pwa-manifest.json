@@ -15,18 +15,6 @@
             "type": "image/png"
         }
     ],
-    "screenshots": [
-        {
-            "src": "img/screenshot-1.jpg",
-            "sizes": "1000x1600",
-            "type": "image/jpeg"
-        },
-        {
-            "src": "img/screenshot-2.jpg",
-            "sizes": "1000x1600",
-            "type": "image/jpeg"
-        }
-    ],
     "background_color": "#121212",
     "theme_color": "#121212",
     "display": "fullscreen",
